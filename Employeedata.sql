@@ -1,4 +1,4 @@
-/*Basic querying*/
+--Basic querying
 
 Create Table Employee 
 (EmployeeID int, 
